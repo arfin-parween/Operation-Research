@@ -1,11 +1,11 @@
 # Operation-Research
-This Repository have complete Notes of operation research in details
+This Repository has complete Notes of operation research in details
 
 Notes of Operation Research 
 
-GitHub Repo : https://github.com/arfin-parween/Operation-Research
+GitHub Repo: https://github.com/arfin-parween/Operation-Research
 
-YouTube Full Playlist : https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsSofO4UaRyEXZDtm7a
+YouTube Full Playlist : <a href="https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsSofO4UaRyEXZDtm7a"> Click Here to access </a>
 
 
 
@@ -14,4 +14,4 @@ YouTube Full Playlist : https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsS
 Replacement Problem : <a href="https://drive.google.com/file/d/19wVAXkZ5j86PWqh9D3-mLeLqFbXAHRHp/view?usp=drivesdk"> Click Here </a>
 
 
-Go through the notes and don't forget to Subscribe me on YouTube.
+Go through the notes and don't forget to Subscribe to me on YouTube.
