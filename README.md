@@ -11,7 +11,7 @@ YouTube Full Playlist : https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsS
 
 ***********PDF Link Chapter wise***********
 
-Replacement Problem : <a href="https://drive.google.com/file/d/19wVAXkZ5j86PWqh9D3-mLeLqFbXAHRHp/view?usp=drivesdk" target="blank"> <alt="Click Here" height="30" width="40" /> 
+Replacement Problem : <a href="https://drive.google.com/file/d/19wVAXkZ5j86PWqh9D3-mLeLqFbXAHRHp/view?usp=drivesdk" target="blank">  
 
 
 Go through the notes and don't forget to Subscribe me on YouTube.
