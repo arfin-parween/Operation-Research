@@ -10,8 +10,13 @@ YouTube Full Playlist : <a href="https://www.youtube.com/playlist?list=PL23dd-8z
 
 
 ***********PDF Link Chapter wise***********
+Operation Research All Notes : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
 
+Linear Programming Problem : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
+Game Theory : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
 Replacement Problem : <a href="https://drive.google.com/file/d/19wVAXkZ5j86PWqh9D3-mLeLqFbXAHRHp/view?usp=drivesdk"> Click Here </a>
-
+Queuing Theory      : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
+Branch and Bound Method : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
+Sequencing Problem      : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a>
 
 Go through the notes and don't forget to Subscribe to me on YouTube.
