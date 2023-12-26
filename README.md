@@ -14,7 +14,7 @@ Operation Research All Notes : <a href="https://drive.google.com/drive/folders/1
 
 
 Linear Programming Problem : <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a> <br>
-Game Theory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a> <br>
+Game Theory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a> <br>
 Replacement Problem &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://drive.google.com/file/d/19wVAXkZ5j86PWqh9D3-mLeLqFbXAHRHp/view?usp=drivesdk"> Click Here </a> <br>
 Queuing Theory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a> <br>
 Branch and Bound Method &nbsp;&nbsp;&nbsp;: <a href="https://drive.google.com/drive/folders/1R4Lk7dhQqkDthIovCd34kw2yvRJXZBPL"> Click Here </a> <br>
